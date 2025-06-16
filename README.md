@@ -26,7 +26,7 @@ Python
 
 •	Sonder (NYC) is the top-performing host in terms of property count, especially in Manhattan, while Dona’s property has the most reviews, showing strong guest interest and trust.
 
-•	Other top-reviewed hosts (Arnie, Catherine, Eric, etc.) indicate potential brand ambassadors or candidates for host training programs.
+•	Other top-reviewed hosts (Arnie, Catherine, Eric) indicate potential brand ambassadors or candidates for host training programs.
 
 •	Entire home/apartment is both the most expensive ($211.8 average) and widely available, especially in Manhattan and Brooklyn.
 
