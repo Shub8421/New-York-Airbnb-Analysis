@@ -38,7 +38,7 @@ Excel, Tableau
 
 •	Slowly increase the price, so we can get good ROI 
 
-3)	Product and Inventory: for Room type
+2)	Product and Inventory: for Room type
    
 For entire room/apt: Treat as premium product, do better listing description, upselling services like late checkout, luggage storage improve room interior for customer satisfaction.
 
@@ -46,19 +46,19 @@ Private room: Clearly position a budget but quality, Promote cleanliness and saf
 
 Shared room: Don’t invest to much on this niche’s, just keep it clean for used because people are not preferring it. Later can upgrade it, in a private room for better revenue and pricing.
 
-5)	Host Performance:
+3)	Host Performance:
 
 •	Simplify onboarding short guide on room, services, pricing and responding to the reviews.
 
 •	Improve for better guest experience fast response with high rating or just volume in reviews.
 
-7)	Pricing and revenue:
+4)	Pricing and revenue:
    
 •	Increase daily average rate where demand is high  
 
 •	Stop overpricing in low demanded area will lose lot of customers 
 
-9)	Demand and engagement (reviews)
+5)	Demand and engagement (reviews)
     
 •	Built the trust with the customers So they can give good reviews, which might lead to drive more customers in the locality.
 
